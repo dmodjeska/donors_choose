@@ -1,6 +1,6 @@
 ## Introduction
 
-During the period March-April 2018, Kaggle held a competition called DonorsChoose.org Application Screening. The goal was to predict whether teachers' project proposals were accepted by DonorsChoose.org, a non-profit organization. A full description of this competition is below. 
+During the period March-April 2018, Kaggle held a competition called [DonorsChoose.org Application Screening](https://www.kaggle.com/c/donorschoose-application-screening). The goal was to predict whether teachers' project proposals were accepted by DonorsChoose.org, a non-profit organization. A full description of this competition is below. 
 
 For processing the data, feature engineering and word vectorization (using TF-IDF) were used. For modeling the data, feature selection and XGBoost generated reasonable predictions.
 
